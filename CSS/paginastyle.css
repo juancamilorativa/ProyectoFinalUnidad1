@@ -1,0 +1,12 @@
+.motosusuki{
+    text-decoration:dashed ;
+    color:blue;
+    background-color: aqua;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}

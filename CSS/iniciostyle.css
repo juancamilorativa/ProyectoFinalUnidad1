@@ -1,0 +1,43 @@
+
+h1{
+    margin-bottom: 20px;
+    color:rgb(43, 76, 226);
+}
+h5{
+    margin-bottom: 20px;
+    color:rgb(16, 185, 177);
+}
+
+
+.contenido1{
+   
+padding: 10px;
+border: 1px, solid #4127a0  ;
+background: linear-gradient(270deg)}
+.contenido2{
+   
+padding: 10px;
+border: 1px, solid #4127a0  ;
+background: linear-gradient(270deg)}
+
+.textocentrado{
+    text-align: center;
+       color:black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+.instagram1{
+    color:purple;
+     text-align: center;
+}
+.facebook1{
+    color: blue;
+    text-align: center;
+
+}
