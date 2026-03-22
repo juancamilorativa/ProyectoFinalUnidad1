@@ -14,7 +14,8 @@ h5{
    
 padding: 10px;
 border: 1px, solid #4127a0  ;
-background: linear-gradient(270deg)}
+background: linear-gradient(270deg);
+}
 .contenido2{
    
 padding: 10px;
@@ -40,4 +41,12 @@ footer {
 .facebook1{
     color: blue;
     text-align: center;
+}
+.Resaltar{
+    color: blue;
+}
+.btn2{
+    
+    background-color:burlywood;
+    padding: 15px 30px;
 }
